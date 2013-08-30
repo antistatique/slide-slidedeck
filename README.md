@@ -1,2 +1,3 @@
-slide-slidedeck
-===============
+Slide presenting SlideDeck.io
+=============================
+
